@@ -1,6 +1,8 @@
 
 * {
 
+    /*overrides the default styling of the browser for all elements*/
+
     margin: 0;
 
     padding: 0;
@@ -112,4 +114,18 @@ footer a {
 
     color: #024e76;
 
+}
+
+section {
+
+    padding: 60px;
+
+}
+
+.hero {
+
+    height: 600px;
+
+    background-image: url(../hero-bg.jpg);
+    
 }
